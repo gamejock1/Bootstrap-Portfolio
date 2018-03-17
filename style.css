@@ -140,7 +140,12 @@ img{
   background-image: url(http://www.numerando.it/images2/gioco_impiccato/gioco_impiccato_0.gif)
 }
 
-h6{ 
+#pg{ 
   display: flex;
   justify-content: center;
+}
+
+#tg{
+  margin-right: 10%;
+  margin-left: 50%;
 }
